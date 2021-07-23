@@ -109,3 +109,15 @@
 	z-index: 9999;
 	border: none;
 }
+
+.gwc-inlinechat-toolbar {
+    margin: 0;
+    background-color: #AE1857;
+    width: 100%;
+    color: #fff;
+    height: 32px;
+    font-size: 14px;
+    line-height: 32px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
