@@ -121,3 +121,23 @@
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
 }
+
+img.heroCarousel-image {
+    max-height: none!important;
+    position: relative!important;
+    object-fit: cover!important;
+    min-height: auto!important;
+}
+
+.heroCarousel-image-wrapper {
+    max-height: none!important;
+    position: relative!important;
+}
+
+a.slick-slide {
+    min-height: auto!important;
+}
+
+.heroCarousel .slick-dots {
+    bottom: 1vw!important;
+}
